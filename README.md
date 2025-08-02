@@ -5,6 +5,8 @@
 💬 Open for collaborations on real-world projects & startups.  
 🌐 [LinkedIn](https://www.linkedin.com/in/adarshninja)
     [LeetCode](https://leetcode.com/u/adarshninja/)
+![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue)
+![IoT](https://img.shields.io/badge/IoT-ESP8266-green)
 
 🛠️ Tech Stack:
 `C++` `Java` `Flutter` `Firebase` `ESP8266` `MongoDB` `React` `Next.js` 
