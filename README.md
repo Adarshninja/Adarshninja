@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Adarshninja
-- 👀 I’m interested in Programming or Data Structures
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on real world projects
-- 📫 How to reach me www.linkedin.com/in/adarshninja
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The First Computer “Bug” Was a Real Bug 😉.
+### 👋 Hi, I'm Adarsh (aka @adarshninja)
 
-<!---
-Adarshninja/Adarshninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I build practical tech — from smart agriculture IoT 🚜 to sleek Flutter apps 📱 & Website too.  
+🌱 Currently diving deep into MERN stack and AI integrations.  
+💬 Open for collaborations on real-world projects & startups.  
+🌐 [LinkedIn](https://www.linkedin.com/in/adarshninja)
+    [LeetCode](https://leetcode.com/u/adarshninja/)
+
+🛠️ Tech Stack:
+`C++` `Java` `Flutter` `Firebase` `ESP8266` `MongoDB` `React` `Next.js` 
+
+⚡ Fun fact: My IoT projects can water your plants smarter than your neighbour 😄
