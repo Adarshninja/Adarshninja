@@ -7,6 +7,6 @@
     [LeetCode](https://leetcode.com/u/adarshninja/)
     
 🛠️ Tech Stack:
-`C++` `Java` `Flutter` `Firebase` `ESP8266` `MongoDB` `React` `Next.js` 
+`Java` `Python` `Scikit-learn` `TensorFlow` `Firebase` `ESP8266` `MongoDB` `SQL`
 
 ⚡ Fun fact: My IoT projects can water your plants smarter than your neighbour 😄
