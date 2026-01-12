@@ -18,7 +18,7 @@ I love turning **ideas into intelligent products**.
 
 ---
 
-### 🛠️ Tech Stack (Updated)
+### 🛠️ Tech Stack
 
 **Programming**
 - Python, Java
@@ -71,7 +71,7 @@ I love turning **ideas into intelligent products**.
 ---
 
 ### 🎯 What I'm Actively Learning
-- Advanced Machine Learning & Model Optimization
+- Advanced Machine Learning & Model Optimisation
 - Production-grade FastAPI systems
 - Agentic AI architectures
 - Scalable RAG systems
