@@ -25,7 +25,7 @@ I love turning **ideas into intelligent products**.
 
 **Machine Learning & AI**
 - NumPy, Pandas, Scikit-Learn  
-- TensorFlow (learning)  
+- Pytorch, TensorFlow
 - Model evaluation, feature engineering, pipelines
 
 **Generative AI & Agentic AI**
@@ -53,7 +53,7 @@ I love turning **ideas into intelligent products**.
 
 **Tools & Platforms**
 - Git & GitHub
-- Docker (learning)
+- Docker
 - Kaggle, Jupyter Notebook
 - Streamlit (for ML demos)
 
@@ -61,6 +61,7 @@ I love turning **ideas into intelligent products**.
 
 ### 📌 Featured Projects
 🔹 **AI Resume Matcher** – NLP-based system to match resumes with job descriptions  
+🔹 **🏥 Clinic WhatsApp Automation System** – Streamlit + FastAPI dashboard for patient lead management 
 🔹 **Laptop Battery Health Predictor** – ML-powered prediction system  
 🔹 **Weather App with API Integration** – real-time data pipelines  
 🔹 **IoT Smart Irrigation System** – ESP + cloud + automation  
