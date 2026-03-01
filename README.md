@@ -1,5 +1,10 @@
 👋 Hi, I'm Adarsh (aka @adarshninja)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Adarsh+%7C+AI+Engineer;Full-Stack+AI+Systems;From+Models+to+Production" />
+</p>
+<br/>
+
 🚀 AI / ML Engineer | Full-Stack AI Developer | Agentic AI & Backend Systems  
 🎓 B.Tech | Building intelligent systems that actually solve real problems
 
