@@ -21,12 +21,10 @@ I love turning **ideas into intelligent products**.
 ### 🛠️ Tech Stack
 
 **Programming**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-</p>
+- Python, Java
+
 **Machine Learning & AI**
-- NumPy,Pandas, Scikit-Learn  
+- NumPy, Pandas, Scikit-Learn  
 - Pytorch, TensorFlow
 - Model evaluation, feature engineering, pipelines
 
