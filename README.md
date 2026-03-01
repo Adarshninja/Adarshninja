@@ -1,7 +1,7 @@
 👋 Hi, I'm Adarsh (aka @adarshninja)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Adarsh+%7C+AI+Engineer;Full-Stack+AI+Systems;From+Models+to+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Adarsh+%7C+AI+Engineer;Full-Stack+AI+Systems;From+Models+to+Production" />
 </p>
 <br/>
 
@@ -66,7 +66,8 @@ I love turning **ideas into intelligent products**.
 
 ### 📌 Featured Projects
 🔹 **AI Resume Matcher** – NLP-based system to match resumes with job descriptions  
-🔹 **🏥 Clinic WhatsApp Automation System** – Streamlit + FastAPI dashboard for patient lead management 
+🔹 **🏥 Clinic WhatsApp Automation System** – Streamlit + FastAPI dashboard for patient lead management
+
 🔹 **Laptop Battery Health Predictor** – ML-powered prediction system  
 🔹 **Weather App with API Integration** – real-time data pipelines  
 🔹 **IoT Smart Irrigation System** – ESP + cloud + automation  
@@ -101,3 +102,14 @@ I love turning **ideas into intelligent products**.
 
 ⚡ Fun Fact:  
 I don’t just train models — I deploy them, connect them to sensors, and make them act in the real world.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshninja&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshninja&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshninja&theme=tokyonight&hide_border=true"/>
+</p>
